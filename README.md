@@ -1,4 +1,4 @@
-# Hand Gesture Recognition using Convolutional Neural Networks
+# Hand Gesture Recognition 
 
 This project focuses on developing a hand gesture recognition system using Convolutional Neural Networks (CNNs). The dataset used for training the model is the Leap Gesture Recognition dataset, which contains images of various hand gestures captured from a Leap Motion Controller.
 
